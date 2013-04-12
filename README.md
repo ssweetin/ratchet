@@ -2,7 +2,6 @@
 
 Prototype mobile apps with simple HTML, CSS and JS components.
 
-test change to README
 test change to README- another change
 
 ## Getting Started
