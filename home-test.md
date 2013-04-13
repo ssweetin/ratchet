@@ -1,3 +1,3 @@
 Hello, what do you think of this?
 
-![Biz](images/sos_business_card_2.svg)
+![Biz](images/sos_business_card_2.svg "pretty")
